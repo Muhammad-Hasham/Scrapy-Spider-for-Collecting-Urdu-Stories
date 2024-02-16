@@ -1,0 +1,6 @@
+venv/
+urdu_stories/scrapy.cfg
+
+urdu_stories/urdu_stories/__pycache__
+urdu_stories/urdu_stories/spiders/__pycache__
+urdu_stories.csv
